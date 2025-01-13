@@ -1,0 +1,259 @@
+Status   Name               DisplayName
+------   ----               -----------
+Stopped  AarSvc_7471f       Agent Activation Runtime_7471f
+Stopped  ALG                Application Layer Gateway Service
+Stopped  AppIDSvc           Application Identity
+Running  Appinfo            Application Information
+Stopped  AppReadiness       App Readiness
+Running  AppXSvc            AppX Deployment Service (AppXSVC)
+Stopped  ApxSvc             Windows 仮想オーディオ デバイス プ...
+Running  AudioEndpointBu... Windows Audio Endpoint Builder
+Running  Audiosrv           Windows Audio
+Stopped  autotimesvc        携帯電話の時間
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)
+Stopped  BcastDVRUserSer... GameDVR とブロードキャスト ユーザー...
+Running  BDESVC             BitLocker Drive Encryption Service
+Running  BFE                Base Filtering Engine
+Stopped  BITS               Background Intelligent Transfer Ser...
+Running  BluetoothUserSe... Bluetooth ユーザー サポート サービ...
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth オーディオ ゲートウェイ ...
+Running  BthAvctpSvc        AVCTP サービス
+Running  bthserv            Bluetooth サポート サービス
+Running  camsvc             機能アクセス マネージャー サービス
+Stopped  CaptureService_... CaptureService_7471f
+Running  cbdhsvc_7471f      クリップボード ユーザー サービス_7471f
+Running  CDPSvc             Connected Devices Platform Service
+Running  CDPUserSvc_7471f   Connected Devices Platform ユーザー...
+Stopped  CertPropSvc        Certificate Propagation
+Running  ClickToRunSvc      Microsoft Office Click-to-Run Service
+Running  ClipSVC            Client License Service (ClipSVC)
+Stopped  CloudBackupRest... クラウド バックアップおよび復元サー...
+Stopped  COMSysApp          COM+ System Application
+Stopped  ConsentUxUserSv... ConsentUX のユーザー サービス_7471f
+Running  CoreMessagingRe... CoreMessaging
+Stopped  CredentialEnrol... CredentialEnrollmentManagerUserSvc_...
+Running  CryptSvc           Cryptographic Services
+Running  DcomLaunch         DCOM Server Process Launcher
+Stopped  dcsvc              宣言済み構成 (DC) サービス
+Stopped  defragsvc          Optimize drives
+Stopped  DeviceAssociati... DeviceAssociationBroker_7471f
+Running  DeviceAssociati... Device Association Service
+Stopped  DeviceInstall      Device Install Service
+Stopped  DevicePickerUse... DevicePicker_7471f
+Running  DevicesFlowUser... デバイス フロー_7471f
+Running  DevQueryBroker     DevQuery Background Discovery Broker
+Running  Dhcp               DHCP Client
+Stopped  diagsvc            Diagnostic Execution Service
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... ポリシー サービスの表示
+Running  DisplayEnhancem... ディスプレイ拡張サービス
+Stopped  DmEnrollmentSvc    デバイス管理登録サービス
+Stopped  dmwappushservice   デバイス管理ワイヤレス アプリケーシ...
+Running  Dnscache           DNS Client
+Running  DolbyDAXAPI        Dolby DAX API Service
+Running  DoSvc              Delivery Optimization
+Stopped  dot3svc            Wired AutoConfig
+Running  DPS                Diagnostic Policy Service
+Stopped  DsmSvc             Device Setup Manager
+Stopped  DsSvc              Data Sharing Service
+Running  DusmSvc            データ使用状況
+Stopped  EapHost            Extensible Authentication Protocol
+Stopped  edgeupdate         Microsoft Edge Update Service (edge...
+Stopped  edgeupdatem        Microsoft Edge Update Service (edge...
+Stopped  EFS                Encrypting File System (EFS)
+Stopped  embeddedmode       埋め込みモード
+Stopped  EntAppSvc          Enterprise App Management Service
+Running  EventLog           Windows Event Log
+Running  EventSystem        COM+ Event System
+Stopped  fdPHost            Function Discovery Provider Host
+Stopped  FDResPub           Function Discovery Resource Publica...
+Running  FontCache          Windows Font Cache Service
+Stopped  FrameServer        Windows カメラ フレーム サーバー
+Stopped  FrameServerMonitor Windows カメラ フレーム サーバー モ...
+Stopped  GameInputSvc       GameInput Service
+Stopped  GoogleChromeEle... Google Chrome Elevation Service (Go...
+Stopped  GoogleUpdaterIn... Google Updater 内部サービス (Google...
+Stopped  GoogleUpdaterSe... Google Updater サービス (GoogleUpda...
+Running  gpsvc              Group Policy Client
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc
+Running  hidserv            Human Interface Device Service
+Running  HvHost             HV ホスト サービス
+Stopped  icssvc             Windows モバイル ホットスポット サ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules
+Running  InstallService     Microsoft Store インストール サービス
+Running  InventorySvc       インベントリと互換性の評価サービス
+Running  iphlpsvc           IP Helper
+Stopped  IpxlatCfgSvc       IP 変換構成サービス
+Running  KeyIso             CNG Key Isolation
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Running  LanmanServer       Server
+Running  LanmanWorkstation  Workstation
+Running  lfsvc              Geolocation Service
+Running  LicenseManager     Windows ライセンス マネージャー サ...
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper
+Running  lmhosts            TCP/IP NetBIOS Helper
+Stopped  LocalKdc           Kerberos ローカル キー配布センター
+Running  LSM                Local Session Manager
+Stopped  LxpSvc             言語エクスペリエンス サービス
+Stopped  MapsBroker         Downloaded Maps Manager
+Stopped  McpManagementSe... McpManagementService
+Running  MDCoreSvc          Microsoft Defender Core Service
+Stopped  MessagingServic... MessagingService_7471f
+Stopped  MicrosoftEdgeEl... Microsoft Edge Elevation Service (M...
+Running  mpssvc             Windows Defender Firewall
+Stopped  MSDTC              Distributed Transaction Coordinator
+Stopped  msiserver          Windows Installer
+Stopped  NaturalAuthenti... 自然認証
+Stopped  NcaSvc             Network Connectivity Assistant
+Running  NcbService         Network Connection Broker
+Stopped  NcdAutoSetup       Network Connected Devices Auto-Setup
+Stopped  Netlogon           Netlogon
+Stopped  Netman             Network Connections
+Running  netprofm           Network List Service
+Stopped  NetSetupSvc        Network Setup Service
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service
+Running  NgcCtnrSvc         Microsoft Passport Container
+Running  NgcSvc             Microsoft Passport
+Stopped  NlaSvc             ネットワークの場所の認識
+Running  NPSMSvc_7471f      セッション マネージャー サービスを...
+Running  nsi                Network Store Interface Service
+Running  OneSyncSvc_7471f   ホストの同期_7471f
+Stopped  P9RdrService_7471f P9RdrService_7471f
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PenService_7471f   PenService_7471f
+Stopped  PerfHost           Performance Counter DLL Host
+Running  PhoneSvc           Phone Service
+Running  PimIndexMainten... Contact Data_7471f
+Stopped  pla                Performance Logs & Alerts
+Running  PolicyAgent        IPsec Policy Agent
+Running  Power              Power
+Stopped  PrintDeviceConf... 印刷デバイス構成サービス
+Stopped  PrintNotify        PrintNotify
+Stopped  PrintScanBroker... PrintScanBrokerService
+Running  PrintWorkflowUs... PrintWorkflow_7471f
+Running  ProfSvc            User Profile Service
+Stopped  PushToInstall      Windows PushToInstall サービス
+Running  qcdpps             qcdpps
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  RasAuto            Remote Access Auto Connection Manager
+Running  RasMan             Remote Access Connection Manager
+Stopped  refsdedupsvc       ReFS 重複除去サービス
+Stopped  RemoteAccess       Routing and Remote Access
+Stopped  RemoteRegistry     Remote Registry
+Stopped  RetailDemo         市販デモ サービス
+Running  RmSvc              無線管理サービス
+Running  RpcEptMapper       RPC Endpoint Mapper
+Stopped  RpcLocator         Remote Procedure Call (RPC) Locator
+Running  RpcSs              Remote Procedure Call (RPC)
+Running  SamSs              Security Accounts Manager
+Stopped  SCardSvr           Smart Card
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service
+Running  Schedule           Task Scheduler
+Stopped  SCPolicySvc        Smart Card Removal Policy
+Stopped  SDRSVC             Windows バックアップ
+Stopped  seclogon           Secondary Logon
+Running  SecurityHealthS... Windows セキュリティ サービス
+Stopped  SEMgrSvc           支払いおよび NFC/SE マネージャー
+Running  SENS               System Event Notification Service
+Stopped  SensorDataService  Sensor Data Service
+Stopped  SensorService      Sensor Service
+Stopped  SensrSvc           Sensor Monitoring Service
+Stopped  SessionEnv         Remote Desktop Configuration
+Stopped  SharedAccess       Internet Connection Sharing (ICS)
+Running  ShellHWDetection   Shell Hardware Detection
+Stopped  shpamsvc           Shared PC Account Manager
+Stopped  smphost            Microsoft Storage Spaces SMP
+Stopped  SmsRouter          Microsoft Windows SMS ルーター サー...
+Stopped  SNMPTrap           SNMP トラップ
+Running  Spooler            Print Spooler
+Stopped  sppsvc             Software Protection
+Running  SSDPSRV            SSDP Discovery
+Stopped  ssh-agent          OpenSSH Authentication Agent
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service
+Stopped  StiSvc             Windows Image Acquisition (WIA)
+Running  StorSvc            Storage Service
+Stopped  SurfaceExperien... Surface Management Extension
+Running  SurfaceExperien... Surface
+Running  SurfaceMachineL... Surface Machine Learning Service
+Running  SurfaceService     Surface Integration Service
+Stopped  svsvc              Spot Verifier
+Stopped  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain
+Running  SystemEventsBroker System Events Broker
+Stopped  TapiSrv            Telephony
+Stopped  TermService        Remote Desktop Services
+Running  TextInputManage... Text Input Management Service
+Running  Themes             Themes
+Stopped  TieringEngineSe... Storage Tiers Management
+Running  TimeBrokerSvc      Time Broker
+Running  TokenBroker        Web アカウント マネージャー
+Stopped  TrkWks             Distributed Link Tracking Client
+Stopped  TroubleshootingSvc 推奨トラブルシューティング サービス
+Stopped  TrustedInstaller   Windows Modules Installer
+Stopped  tzautoupdate       タイム ゾーンの自動更新機能
+Running  UdkUserSvc_7471f   Udk User Service_7471f
+Stopped  UmRdpService       Remote Desktop Services UserMode Po...
+Running  UnistoreSvc_7471f  User Data Storage_7471f
+Stopped  upnphost           UPnP Device Host
+Running  UserDataSvc_7471f  User Data Access_7471f
+Running  UserManager        User Manager
+Running  UsoSvc             Orchestrator Service の更新
+Running  VaultSvc           Credential Manager
+Stopped  vds                Virtual Disk
+Stopped  vmicguestinterface Hyper-V Guest Service Interface
+Stopped  vmicheartbeat      Hyper-V Heartbeat Service
+Stopped  vmickvpexchange    Hyper-V Data Exchange Service
+Stopped  vmicshutdown       Hyper-V Guest Shutdown Service
+Stopped  vmictimesync       Hyper-V Time Synchronization Service
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service
+Stopped  vmicvss            Hyper-V ボリューム シャドウ コピー ...
+Stopped  VSS                Volume Shadow Copy
+Stopped  W32Time            Windows Time
+Stopped  WaaSMedicSvc       WaaSMedicSvc
+Stopped  WalletService      WalletService
+Stopped  WarpJITSvc         Warp JIT Service
+Stopped  wbengine           Block Level Backup Engine Service
+Stopped  WbioSrvc           Windows Biometric Service
+Running  Wcmsvc             Windows Connection Manager
+Stopped  wcncsvc            Windows Connect Now - Config Registrar
+Stopped  WdiServiceHost     Diagnostic Service Host
+Running  WdiSystemHost      Diagnostic System Host
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  WebClient          WebClient
+Running  webthreatdefsvc    Web Threat Defense サービス
+Running  webthreatdefuse... Web Threat Defense ユーザー サービ...
+Stopped  Wecsvc             Windows Event Collector
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  wercplsupport      Problem Reports Control Panel Support
+Stopped  WerSvc             Windows Error Reporting Service
+Running  WFDSConMgrSvc      Wi-Fi Direct サービスの接続マネージ...
+Stopped  WiaRpc             Still Image Acquisition Events
+Running  WinDefend          Microsoft Defender Antivirus Service
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  winmgmt            Windows Management Instrumentation
+Stopped  WinRM              Windows Remote Management (WS-Manag...
+Running  WinZip Smart Mo... WinZip Smart Monitor Service
+Stopped  wisvc              Windows Insider サービス
+Running  WlanSvc            WLAN AutoConfig
+Running  wlidsvc            Microsoft Account Sign-in Assistant
+Stopped  wlpasvc            ローカル プロファイル アシスタント ...
+Stopped  WManSvc            Windows 管理サービス
+Stopped  wmiApSrv           WMI Performance Adapter
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  workfolderssvc     Work Folders
+Stopped  WpcMonSvc          保護者による制限
+Stopped  WPDBusEnum         Portable Device Enumerator Service
+Running  WpnService         Windows プッシュ通知システム サービス
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Stopped  WsaService         Windows Subsystem for Android™
+Running  wscsvc             セキュリティ センター
+Running  WSearch            Windows Search
+Running  wuauserv           Windows Update
+Stopped  WwanSvc            WWAN AutoConfig
+Stopped  XblAuthManager     Xbox Live Auth Manager
+Stopped  XblGameSave        Xbox Live セーブ データ
+Stopped  XboxGipSvc         Xbox Accessory Management Service
+Stopped  XboxNetApiSvc      Xbox Live ネットワーキング サービス
+Running  XtaCache           XtaCache
